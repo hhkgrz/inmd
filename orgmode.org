@@ -1,0 +1,6 @@
+* org-mode
+- [[https://orgmode.org/][Website]]
+- [[https://orgmode.org/worg/][Worg]]
+- [[http://doc.norang.ca/org-mode.html][Organize Your Life In Plain Text!]]
+* org-journal
+- [[https://github.com/bastibe/org-journal][Website]]
