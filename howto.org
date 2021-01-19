@@ -1,0 +1,30 @@
+* Remap keys of a keyboard
+** By edit regiter
+*** Steps
+1) Open [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout] in regedit.exe
+2) Add "Binary Value"(Type is REG_BINARY) with name "Scancode Map" with indicated <VALUE>
+3) Save, log off and log in again(if not work, then need restart)
+*** The <VALUE>
+**** Example
+00000000 00000000 04000000 3a001d00 1d003a00 380038e0 00000000
+**** Explanation
+|      Value | Interpretation                                  |
+|------------+-------------------------------------------------|
+| 0x00000000 | Header:Version Information. Set to all zeroes   |
+| 0x00000000 | Header:Flags. Set to all zeroes                 |
+| 0x00000004 | Four entries in the map (including null entry)  |
+| 0x001d003a | Make "Left CTRL" to "CAPS LOCK" (0x1d --> 0x3a) |
+| 0x003a001d | Make "CAPS LOCK" to "Left CTRL" (0x3a --> 0x1d) |
+| 0xe0380038 | Make "Right ALT" to "Left ALT" (0xe038 --> 0x38 |
+| 0x00000000 | Null terminator.                                |
+Notice that all values are little-endian.
+**** Some common keys
+| Key name   | Scan code |
+|------------+-----------|
+| CAPS LOCK  |      0x3a |
+| Left SHIFT |      0x2a |
+| Right CTRL |    0xe01d |
+| TAB        |      0x0f |
+*** Reference
+1) [[http://download.microsoft.com/download/1/6/1/161ba512-40e2-4cc9-843a-923143f3456c/scancode.doc][Keyboard Scan Code Specification]]
+2) [[https://msdn.microsoft.com/windows/hardware/drivers/hid/keyboard-and-mouse-class-drivers][Keyboard and mouse class drivers]] --> "Scan code mapper for keyboards"
