@@ -8,9 +8,11 @@
 - [[https://www.spacemacs.org/][Website]]
 ** tip 
 *** elpa connection failed with http link
+#+BEGIN_SRC elisp
 (url-retrieve-synchronously "http://orgmode.org/elpa/")
 (url-retrieve-synchronously "https://melpa.org/packages/")
 (url-retrieve-synchronously "https://elpa.gnu.org/packages/")
+#+END_SRC
 * tmux
 - [[https://tmux.github.io/][Website]]
 * youtube-dl
