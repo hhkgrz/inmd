@@ -1,0 +1,17 @@
+* FFmpeg
+- [[https://ffmpeg.org/][Website]]
+* i3
+- [[https://i3wm.org/][Website]]
+* MPlayer
+- [[http://www.mplayerhq.hu/][Website]]
+* spacemacs
+- [[https://www.spacemacs.org/][Website]]
+** tip 
+*** elpa connection failed with http link
+(url-retrieve-synchronously "http://orgmode.org/elpa/")
+(url-retrieve-synchronously "https://melpa.org/packages/")
+(url-retrieve-synchronously "https://elpa.gnu.org/packages/")
+* tmux
+- [[https://tmux.github.io/][Website]]
+* youtube-dl
+- [[https://youtube-dl.org/][Website]]
