@@ -4,6 +4,8 @@
 - [[https://i3wm.org/][Website]]
 * MPlayer
 - [[http://www.mplayerhq.hu/][Website]]
+* neovim
+- [[https://neovim.io/][Website]]
 * spacemacs
 - [[https://www.spacemacs.org/][Website]]
 ** tip 
