@@ -17,6 +17,8 @@
 #+END_SRC
 * termux
 - [[https://termux.com/][Website]]
+** tip
+- [[https://yadominjinta.github.io/2018/07/30/GUI-on-termux.html][Yadomin]]
 * tmux
 - [[https://tmux.github.io/][Website]]
 ** tip
