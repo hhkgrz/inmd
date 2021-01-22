@@ -1,5 +1,7 @@
 * FFmpeg
 - [[https://ffmpeg.org/][Website]]
+* Fluxbox
+- [[http://fluxbox.org][Website]]
 * GNU Octave
 - [[https://www.gnu.org/software/octave/][Website]]
 * i3
