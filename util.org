@@ -1,5 +1,7 @@
 * FFmpeg
 - [[https://ffmpeg.org/][Website]]
+* GNU Octave
+- [[https://www.gnu.org/software/octave/][Website]]
 * i3
 - [[https://i3wm.org/][Website]]
 * MPlayer
