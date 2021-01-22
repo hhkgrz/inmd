@@ -15,5 +15,7 @@
 #+END_SRC
 * tmux
 - [[https://tmux.github.io/][Website]]
+** tip
+*** [[http://cenalulu.github.io/linux/tmux/][cenalulu]]
 * youtube-dl
 - [[https://youtube-dl.org/][Website]]
