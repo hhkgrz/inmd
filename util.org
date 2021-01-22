@@ -19,5 +19,6 @@
 - [[https://tmux.github.io/][Website]]
 ** tip
 *** [[http://cenalulu.github.io/linux/tmux/][cenalulu]]
+*** [[https://github.com/gpakosz/.tmux/][gpakosz/.tmux]]
 * youtube-dl
 - [[https://youtube-dl.org/][Website]]
