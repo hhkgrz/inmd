@@ -2,5 +2,7 @@
 - [[https://git-scm.com/][Website]]
 - [[https://git-scm.com/docs][Manual]]
 - [[https://git-scm.com/book][Pro Git]]
+** ref
+- [[https://marklodato.github.io/visual-git-guide/index-en.html][A Visual Git Reference]]
 * Jenkins
 - [[https://www.jenkins.io/][Website]]
