@@ -4,5 +4,6 @@
 - [[https://git-scm.com/book][Pro Git]]
 ** ref
 - [[https://marklodato.github.io/visual-git-guide/index-en.html][A Visual Git Reference]]
+- [[https://medium.com/@tahteche/how-git-treats-changes-in-file-permissions-f71874ca239d][Tah Teche-File Permissions]]
 * Jenkins
 - [[https://www.jenkins.io/][Website]]
