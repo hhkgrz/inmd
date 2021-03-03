@@ -2,5 +2,6 @@
 - [[https://orgmode.org/][Website]]
 - [[https://orgmode.org/worg/][Worg]]
 - [[http://doc.norang.ca/org-mode.html][Organize Your Life In Plain Text!]]
+- [[https://www.reddit.com/r/orgmode/][reddit Org-mode]]
 * org-journal
 - [[https://github.com/bastibe/org-journal][Website]]
