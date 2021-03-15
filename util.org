@@ -2,6 +2,7 @@
 - [[https://www.gnu.org/software/emacs/][Website]]
 ** ref
 - [[http://ergoemacs.org/][Xah Emacs Site]]
+- [[https://github.com/redguardtoo/mastering-emacs-in-one-year-guide][redguardtoo/mastering-emacs-in-one-year-guide]]
 * FFmpeg
 - [[https://ffmpeg.org/][Website]]
 * Fluxbox
