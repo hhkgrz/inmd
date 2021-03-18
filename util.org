@@ -30,6 +30,7 @@
 - [[https://yadominjinta.github.io/2018/07/30/GUI-on-termux.html][Yadomin]]
 * tmux
 - [[https://tmux.github.io/][Website]]
+- [[https://man.openbsd.org/tmux][Manual]]
 ** tip
 - [[http://cenalulu.github.io/linux/tmux/][cenalulu]]
 - [[https://github.com/gpakosz/.tmux/][gpakosz/.tmux]]
