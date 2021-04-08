@@ -37,3 +37,10 @@
 - [[https://github.com/tmux/tmux/issues/1689/][2.8 -> 2.9 -fg, -bg, -attr to -style]]
 * youtube-dl
 - [[https://youtube-dl.org/][Website]]
+* GoldenDict
+- [[http://www.goldendict.org/][Website]]
+- [[https://github.com/goldendict/goldendict/][GitHub]]
+- [[https://en.wikipedia.org/wiki/GoldenDict][wikipedia]]
+** ref
+- [[https://www.cnblogs.com/keatonlao/p/12702571.html][Install]]
+- [[http://download.huzheng.org/][dicts]]
