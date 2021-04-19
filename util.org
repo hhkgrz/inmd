@@ -3,6 +3,8 @@
 ** ref
 - [[http://ergoemacs.org/][Xah Emacs Site]]
 - [[https://github.com/redguardtoo/mastering-emacs-in-one-year-guide][redguardtoo/mastering-emacs-in-one-year-guide]]
+** Yasnippet
+- [[https://www.emacswiki.org/emacs/Yasnippet][EmacsWiki]]
 * FFmpeg
 - [[https://ffmpeg.org/][Website]]
 * Fluxbox
