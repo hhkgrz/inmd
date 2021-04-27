@@ -5,6 +5,8 @@
 - [[https://github.com/redguardtoo/mastering-emacs-in-one-year-guide][redguardtoo/mastering-emacs-in-one-year-guide]]
 ** Yasnippet
 - [[https://www.emacswiki.org/emacs/Yasnippet][EmacsWiki]]
+* edex-ui
+- [[https://github.com/GitSquared/edex-ui][GitHub]]
 * FFmpeg
 - [[https://ffmpeg.org/][Website]]
 * Fluxbox
