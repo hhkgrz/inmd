@@ -50,3 +50,4 @@
 - [[http://download.huzheng.org/][dicts]]
 * Joplin
 - [[https://joplinapp.org][Website]]
+- [[https://github.com/laurent22/joplin][GitHub]]
