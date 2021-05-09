@@ -48,3 +48,5 @@
 ** ref
 - [[https://www.cnblogs.com/keatonlao/p/12702571.html][Install]]
 - [[http://download.huzheng.org/][dicts]]
+* Joplin
+- [[https://joplinapp.org][Website]]
