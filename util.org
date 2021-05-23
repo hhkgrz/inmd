@@ -54,4 +54,4 @@
 * GNU Stow
 - [[https://www.gnu.org/software/stow/][Website]]
 ** tip
-- [[https://alexpearce.men/2016/02/managine-dotfiles-with-stow/][Managing dotfiles with GNU stow]]
+- [[https://alexpearce.me/2016/02/managing-dotfiles-with-stow/][Managing dotfiles with GNU stow]]
