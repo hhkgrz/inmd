@@ -54,3 +54,7 @@
 * Vim
 - [[https://www.vim.org][Website]]
 - [[https://gist.github.com/azadkuh/5d223d46a8c269dadfe4][azadkuh/vim-cheatsheet.md]]
+* GNU Stow
+- [[https://www.gnu.org/software/stow/][Website]]
+** tip
+- [[https://alexpearce.me/2016/02/managing-dotfiles-with-stow/][Managing dotfiles with GNU stow]]
