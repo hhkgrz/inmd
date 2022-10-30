@@ -55,6 +55,7 @@
 - [[https://www.vim.org][Website]]
 - [[https://gist.github.com/azadkuh/5d223d46a8c269dadfe4][azadkuh/vim-cheatsheet.md]]
 - [[https://vim.swaroopch.com/][A Byte of Vim]]
+- [[https://www.openvim.com/][Interactive Vim tutorial]]
 * GNU Stow
 - [[https://www.gnu.org/software/stow/][Website]]
 ** tip
