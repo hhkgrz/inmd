@@ -39,6 +39,8 @@
 - [[http://cenalulu.github.io/linux/tmux/][cenalulu]]
 - [[https://github.com/gpakosz/.tmux/][gpakosz/.tmux]]
 - [[https://github.com/tmux/tmux/issues/1689/][2.8 -> 2.9 -fg, -bg, -attr to -style]]
+* you-get
+https://github.com/soimort/you-get
 * youtube-dl
 - [[https://youtube-dl.org/][Website]]
 * GoldenDict
